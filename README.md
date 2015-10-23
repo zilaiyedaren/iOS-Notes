@@ -10,3 +10,5 @@ Object-c 和 Swift
 
 i will change the info ,and download to local.
 
+提交出现中文乱码
+
