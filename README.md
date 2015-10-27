@@ -12,6 +12,7 @@ http://www.cocoachina.com/ios/20150821/13140.html
 https://github.com/zilaiyedaren/awesome-ios-chart
 
 -----------------------------------------------------------------------
-3.iOS开发-APP开发初步
+3.iOS开发-Categories
+https://github.com/zilaiyedaren/iOS-Categories
 
 
