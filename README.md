@@ -7,7 +7,7 @@ http://www.cocoachina.com/ios/20151021/13722.html
 http://www.cocoachina.com/ios/20150821/13140.html
 
 ----------------------------------------------------------------------
-2.iOS开发—图标
+2.iOS开发—图表
 
 https://github.com/zilaiyedaren/awesome-ios-chart
 
