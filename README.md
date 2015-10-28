@@ -33,6 +33,8 @@ https://github.com/zilaiyedaren/iOSInterviewQuestions
 
 http://www.cocoachina.com/programmer/20151019/13746.html
 
+http://www.cnblogs.com/ios8/p/ios-oc-test.html
+
 -----------------------------------------------------------------------
 7.Objective-C编码规范总结。
 
