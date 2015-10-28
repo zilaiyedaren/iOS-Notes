@@ -16,4 +16,9 @@ https://github.com/zilaiyedaren/awesome-ios-chart
 
 https://github.com/zilaiyedaren/iOS-Categories
 
+4.iOS、mac开源项目及库
+
+https://github.com/zilaiyedaren/TimLiu-iOS
+-----------------------------------------------------------------------
+
 
