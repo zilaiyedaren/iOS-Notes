@@ -35,6 +35,8 @@ http://www.cocoachina.com/programmer/20151019/13746.html
 
 http://www.cnblogs.com/ios8/p/ios-oc-test.html
 
+http://blog.sina.com.cn/s/blog_4cd8dd130101m6zk.html
+
 -----------------------------------------------------------------------
 7.Objective-C编码规范总结。
 
